@@ -2,3 +2,4 @@ Violence loadstring(game:HttpGet("https://raw.githubusercontent.com/armkkk123/sc
 Cretures of sonaria loadstring(game:HttpGet("https://raw.githubusercontent.com/armkkk123/script-amors/refs/heads/main/loader_cretures_extreme.lua"))()
 dragon loadstring(game:HttpGet("https://raw.githubusercontent.com/armkkk123/script-amors/refs/heads/main/loader_dragon_avt_extreme.lua"))()
 enterched loadstring(game:HttpGet("https://raw.githubusercontent.com/armkkk123/script-amors/refs/heads/main/loader_enterchad.extreme.lua"))()
+coinfarm loadstring(game:HttpGet("https://raw.githubusercontent.com/armkkk123/script-amors/refs/heads/main/loader_enterchad.extreme.lua"))()
