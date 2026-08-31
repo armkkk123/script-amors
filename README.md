@@ -4,3 +4,4 @@ dragon loadstring(game:HttpGet("https://raw.githubusercontent.com/armkkk123/scri
 enterched loadstring(game:HttpGet("https://raw.githubusercontent.com/armkkk123/script-amors/refs/heads/main/loader_enterchad.extreme.lua"))()
 coinfarm loadstring(game:HttpGet("https://raw.githubusercontent.com/armkkk123/script-amors/refs/heads/main/loader_coinfarm_obfuscated.lua"))()
 DAVT autoquest  loadstring(game:HttpGet("https://raw.githubusercontent.com/armkkk123/script-amors/refs/heads/main/loader_dragonadventures_autoquest_extreme.lua"))()
+sniper arena loadstring(game:HttpGet("https://raw.githubusercontent.com/armkkk123/script-amors/refs/heads/main/loader_sniper_arena_extreme.lua"))()
